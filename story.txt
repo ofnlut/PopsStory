@@ -15,3 +15,10 @@ People lived in homes made of pizza and also ate pizza for breakfast, lunch and 
 After the aliens explained stuff about their planet, Pops wanted to go to the "PizzaWorld" with them.
 The aliens told Pops that he had passed the exam by breaking the universal pizza record, but they still couldn't take him.
 "Why?", Pops asked shockingly. The aliens said, "You need to first pass CS 400, its a prerequesite."  
+
+So, Pops decided to switch his major from Mechanical Engieering to Computer Science.
+After a few semesters he was able to finally reach the CS 400 class where he learned from Deb Deppler about pizza sorting.
+He finished the class with a P+, and was finally able to leave Earth to go live with the aliens in the "PizzaWorld".
+Pops ate pizza all day long and was truly happy.
+
+The End 
